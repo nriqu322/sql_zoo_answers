@@ -1,5 +1,5 @@
 # SqlZoo answers
-This is list of solutions to the [sqlzoo](https://sqlzoo.net/wiki/SQL_Tutorial) tutorial from questions 0 to 9.
+This is list of solutions to questions 0 to 9, from [sqlzoo](https://sqlzoo.net/wiki/SQL_Tutorial) tutorial .
 
 # From the Odin Project
 *Link to the [requirements](https://www.theodinproject.com/courses/databases/lessons/sql) in the Odin Project*
